@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityDemo</string>
+    <string name="click">Click</string>
+    <string name="i_m_in_second_activity">I\'m in Second Activity</string>
+</resources>
